@@ -35,22 +35,26 @@ ul{
 }
 
 .title-img{
-    height: 200px;
-    width:200px;
-    
+    height: 300px;
+    width:450px;
+    border: solid #3882F6;
+    border-radius: 30px;
+    position: relative; 
+    top: -100px;
+    left: 100px;
 }
 
 .joke-img{
     width: 100px;
     height: 100px;
-    border: solid lightseagreen;
+    border: solid #3882F6;
     border-radius: 30px;
 }
 
 .title-image{
     display: flex;
     justify-content: center;
-   margin-left: 30%;
+    margin-top: -40px;
    
 }
 
@@ -107,7 +111,15 @@ button{
 }
 .sign-up-header{
     padding: 8px;
+margin-left: 12px;
 }
 .sign-up{
     margin-right: 18px;
+}
+
+.left-side{
+    margin-left: 18px;
+}
+h2{
+    text-decoration: #3882F6 underline;
 }
