@@ -80,7 +80,7 @@ button{
     width: 550px;
     height: 100px;
     display: flex;
-    
+    margin-top: 60px;
     align-items: center;
 }
 
